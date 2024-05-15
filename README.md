@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning JavaScript and C++
 - 💞️ I’m looking to collaborate on some productive projects
 - 📫 How to reach me: you can text me on Instagram in which you can get from my profile
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
+
 
 <!---
 Sudin-Neupane/Sudin-Neupane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
