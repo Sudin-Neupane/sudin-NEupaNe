@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @Sudin-Neupane
-- 👀 I’m interested in Programming
--  I believe I can do a lot in HTML, C, SQL and a few in JS as well...
-- 🌱 I’m currently learning JavaScript and C++
-- 💞️ I’m looking to collaborate on some productive projects
-- 📫 How to reach me: you can text me on Instagram in which you can get from my profile
+Hi, I’m Sudin Neupane, a fresh graduate from grade 12 in the Computer Science stream, where I achieved a GPA of 3.52. I’m a passionate programmer with a solid foundation in HTML, CSS, C, and SQL, along with a growing proficiency in JavaScript. My journey in programming has been driven by a desire to build impactful and efficient solutions, and I’m always eager to expand my knowledge and skill set.
 
+Currently, I’m delving deeper into JavaScript to enhance my ability to create dynamic and interactive web applications. As I continue to grow as a developer, I’m excited to take the next step by exploring React, a powerful framework that I believe will help me elevate my development skills and contribute to creating modern, user-friendly web interfaces.
 
-<!---
-Sudin-Neupane/Sudin-Neupane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m actively seeking opportunities to collaborate on projects that challenge me, push my boundaries, and help me grow. I’m particularly interested in working on meaningful and productive projects where I can apply what I’ve learned, while also learning from others in the process. Whether it’s contributing to a small task or participating in larger projects, I’m enthusiastic about working with like-minded individuals who share my passion for technology.
