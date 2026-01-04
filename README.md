@@ -161,9 +161,8 @@ I believe in **learning by building**, improving every day, and contributing to 
 
 
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+
 
 ---
 
@@ -187,11 +186,6 @@ I believe in **learning by building**, improving every day, and contributing to 
 ---
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-</p>
 
 ---
 
