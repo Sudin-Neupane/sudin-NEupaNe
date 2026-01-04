@@ -11,7 +11,7 @@ Building clean, user-friendly, and scalable web experiences while growing into a
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/sudin neupane">
+<a href="https://www.linkedin.com/in/sudin-neupane-84a30a260/">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:sudinneupane519@gmail.com">
@@ -25,7 +25,7 @@ Building clean, user-friendly, and scalable web experiences while growing into a
 
 I’m **Sudin Neupane**, a **1st-year CSIT student** and a passionate **Computer Science enthusiast** with a strong focus on **web development and software engineering fundamentals**.
 
-I specialize in creating **responsive, accessible, and user-friendly web applications**, transforming ideas into practical digital solutions using modern development practices.
+I specialize in creating **responsive, accessible, and user-friendly websites**, transforming ideas into practical digital solutions using modern development practices.
 
 My core strengths lie in **HTML, CSS, and JavaScript**, and I am actively expanding my knowledge into:
 - Modern frontend frameworks  
@@ -46,12 +46,11 @@ I believe in **learning by building**, improving every day, and contributing to 
 
 ##  Current Learning & Growth Path
 
-- Advanced **JavaScript & DOM manipulation**
+- Advanced **JavaScript and it's funcitons**
 - Frontend frameworks (React ecosystem – learning phase)
-- Backend basics & APIs
-- Relational & non-relational databases
 - Software engineering best practices
 - Open-source collaboration
+- Advance C Programming and basics of C++
 
 ---
 
