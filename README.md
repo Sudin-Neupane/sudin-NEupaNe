@@ -159,7 +159,7 @@ I believe in **learning by building**, improving every day, and contributing to 
 
 ---
 
-##  Contribution Snake (Aesthetic Touch)
+
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -187,11 +187,15 @@ I believe in **learning by building**, improving every day, and contributing to 
 ---
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 </p>
 
 ---
 
-### ⭐ Final Thought
+###  Final Thought
 
 I am continuously learning, building, and improving.
 If you are interested in **collaboration, mentorship, internships, or open-source contributions**, feel free to connect.
