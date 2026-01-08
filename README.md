@@ -142,28 +142,20 @@ I believe in **learning by building**, improving every day, and contributing to 
 
 ---
 
-##  GitHub Performance
+## GitHub Performance
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sudin-Neupane&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Sudin-Neupane&theme=dark" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&layout=compact&theme=dark" />
 </p>
+
 
 
 
