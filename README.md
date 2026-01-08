@@ -142,7 +142,7 @@ I believe in **learning by building**, improving every day, and contributing to 
 
 ---
 
-## GitHub Performance
+##GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&show_icons=true&theme=dark" />
@@ -155,6 +155,9 @@ I believe in **learning by building**, improving every day, and contributing to 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&layout=compact&theme=dark" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 
 
 
