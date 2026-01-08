@@ -156,7 +156,6 @@ I believe in **learning by building**, improving every day, and contributing to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&layout=compact&theme=dark" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 
 
