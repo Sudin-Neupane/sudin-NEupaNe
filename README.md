@@ -141,21 +141,19 @@ I believe in **learning by building**, improving every day, and contributing to 
 > Pinned repositories below represent my **best work and learning progress**.
 
 ---
-
-##GitHub Performance
+GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sudin-Neupane&theme=dark" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sudin-Neupane&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&theme=dark&hide_border=false&layout=compact" />
 </p>
-
 
 
 
