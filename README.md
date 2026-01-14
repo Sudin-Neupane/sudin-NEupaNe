@@ -161,29 +161,24 @@ GitHub Performance
   <img src="https://github-profile-trophy.vercel.app/?username=Sudin-Neupane&theme=darkhub&no-frame=true&column=7" />
 </p>
 
-
-##  Contribution Activity
+<!-- ##  Contribution graph -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudin-Neupane&theme=react-dark&hide_border=true" />
 </p>
-##  Visitors Map (Design Element)
+<!-- ##  Visitors Map (Design Element) -->
 
 <p align="center">
   <img src="https://github-profile-views-counter.vercel.app/api/?username=Sudin-Neupane" />
 </p>
 
-##  Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-##  Fun GitHub Metrics
+<!-- ##  Fun GitHub Metrics -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&show_icons=true&count_private=true&hide=issues&theme=tokyonight" />
 </p>
-##  Coding Vibes
+<!-- ##  Coding Vibes -->
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qexample&cover_image=true&theme=default&show_offline=true&background_color=121212" />
@@ -194,7 +189,7 @@ GitHub Performance
 
 
 ---
-##  Visual Badges Wall
+<!-- ##  Visual badges wall -->
 
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20Source-Lover-000000?style=flat-square" />
@@ -212,7 +207,7 @@ GitHub Performance
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-##  Developer Space
+<!-- ##  Developer space -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
