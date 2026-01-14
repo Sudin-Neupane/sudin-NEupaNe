@@ -138,7 +138,7 @@ I believe in **learning by building**, improving every day, and contributing to 
 - Academic + personal development projects
 - WordPress-powered business websites
 
-> Pinned repositories below represent my **best work and learning progress**.
+
 
 ---
 GitHub Performance
