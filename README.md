@@ -3,8 +3,8 @@ Hi , I'm Sudin Neupane
 </h1>
 
 <h3 align="center">
-1st Year CSIT Student • Emerging Web Developer • Computer Science Enthusiast
-</h3>
+1st Year CSIT Student • Emerging Web Developer • Computer Science Enthusiast  • College Representative of Code For Change 
+</h3> 
 
 <p align="center">
 Building clean, user-friendly, and scalable web experiences while growing into a full-stack software engineer.
