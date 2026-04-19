@@ -1,242 +1,228 @@
-<h1 align="center">
-Hi, I'm Sudin Neupane
-</h1>
-
-<h3 align="center">
-1st Year CSIT Student • Emerging Web Developer • Computer Science Enthusiast  • College Representative of Code For Change 
-</h3> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudin%20Neupane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20CSIT%20Student%20%7C%20CS%20Enthusiast&descAlignY=55&descSize=16"/>
 
 <p align="center">
-Building clean, user-friendly, and scalable web experiences while growing into a full-stack software engineer.
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+scalable+web+experiences;1st+Year+CSIT+Student+%F0%9F%8E%93;Emerging+Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;WordPress+%26+SEO+Specialist+%F0%9F%93%88;Learning+Every+Single+Day+%F0%9F%92%AA" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sudin-neupane-84a30a260/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:sudinneupane519@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
+  <a href="https://www.linkedin.com/in/sudin-neupane-84a30a260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sudinneupane519@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sudin_neupane">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/sudin.neupane">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sudin-Neupane&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Sudin-Neupane?label=Followers&style=flat-square&color=0e75b6" />
 </p>
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
-I’m **Sudin Neupane**, a **1st-year CSIT student** and a passionate **Computer Science enthusiast** with a strong focus on **web development and software engineering fundamentals**.
+```javascript
+const sudin = {
+  name:       "Sudin Neupane",
+  location:   "Nepal 🇳🇵",
+  education:  "1st Year CSIT Student",
+  role:       "College Representative @ Code For Change",
+  passion:    ["Web Development", "Clean Code", "Open Source"],
+  currentFocus: "Building full-stack skills from the ground up",
+  funFact:    "I believe real projects > endless tutorials 🛠️"
+};
+```
 
-I specialize in creating **responsive, accessible, and user-friendly websites**, transforming ideas into practical digital solutions using modern development practices.
+I'm **Sudin Neupane** — a passionate **CSIT student** and **emerging web developer** from Nepal. I love crafting **responsive, accessible, and user-friendly** digital experiences. With **1+ year of real-world WordPress experience**, I've worked across content, SEO, performance, and site management.
 
-My core strengths lie in **HTML, CSS, and JavaScript**, and I am actively expanding my knowledge into:
-- Modern frontend frameworks  
-- Backend fundamentals  
-- Database management systems  
-- Scalable and maintainable web architectures  
-
-In addition to development, I have **over 1 year of real-world experience managing WordPress websites**, where I worked extensively with:
-- Content writing & publishing  
-- SEO optimization using **Yoast SEO**  
-- Website customization  
-- Performance optimization  
-- Social media management  
-
-I believe in **learning by building**, improving every day, and contributing to projects that create real impact.
+I believe in **learning by building** — every line of code I write brings me closer to becoming a solid full-stack engineer.
 
 ---
 
-##  Current Learning & Growth Path
+## 🔥 Currently Working On
 
-- Advanced **JavaScript and it's funcitons**
-- Frontend frameworks (React ecosystem – learning phase)
-- Software engineering best practices
-- Open-source collaboration
-- Advance C Programming and basics of C++
+<table>
+  <tr>
+    <td>🚀</td>
+    <td>Deepening <strong>JavaScript</strong> — advanced functions, closures, async</td>
+  </tr>
+  <tr>
+    <td>⚛️</td>
+    <td>Learning <strong>React</strong> — components, hooks, state management</td>
+  </tr>
+  <tr>
+    <td>🔙</td>
+    <td>Exploring <strong>Backend Basics</strong> — Node.js fundamentals</td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td>Practicing <strong>MySQL</strong> — queries, joins, CRUD operations</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td>Advancing in <strong>C Programming</strong> and picking up C++</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td>Contributing to <strong>open-source</strong> projects</td>
+  </tr>
+</table>
 
 ---
 
-##  Core Principles
+## 🛠️ Tech Stack & Tools
 
-- Clean, readable, and maintainable code
-- Strong fundamentals over shortcuts
-- Continuous learning > quick results
-- Real projects over tutorial copying
-- Collaboration and community growth
-
----
-
-##  Tech Stack & Tools
-
-###  Programming Languages
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
----
-
-###  Web Technologies
+### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-###  UI / UX & Design
+### 🎨 UI / UX & Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-DA1F26.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
----
-
-###  CMS, SEO & Content Management
+### 📝 CMS, SEO & Content
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Yoast SEO](https://img.shields.io/badge/Yoast_SEO-A61E69?style=for-the-badge&logo=yoast&logoColor=white)
 ![Content Writing](https://img.shields.io/badge/Content_Writing-444444?style=for-the-badge)
-![On--Page SEO](https://img.shields.io/badge/On_Page_SEO-0A66C2?style=for-the-badge)
+![On-Page SEO](https://img.shields.io/badge/On_Page_SEO-0A66C2?style=for-the-badge)
 
----
-
-###  Databases (Learning / Practicing)
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-###  Development Tools
+### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-###  Software Engineering Concepts
+### ⚙️ SE Concepts
 ![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-006400?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-333333?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-8A2BE2?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge)
 
----
-
-###  Digital & Social Media
-![Social Media Management](https://img.shields.io/badge/Social_Media_Management-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![Analytics Basics](https://img.shields.io/badge/Analytics_Basics-F9AB00?style=for-the-badge)
-
----
-
-###  Currently Learning / Exploring
+### 📚 Currently Learning
 ![React](https://img.shields.io/badge/React_(Learning)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js_(Exploring)-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Backend Basics](https://img.shields.io/badge/Backend_Basics-000000?style=for-the-badge)
-![Scalable Web Architecture](https://img.shields.io/badge/Scalable_Architecture-2C2C2C?style=for-the-badge)
+![Scalable Architecture](https://img.shields.io/badge/Scalable_Architecture-2C2C2C?style=for-the-badge)
 
+---
+
+## 🏆 Core Principles
+
+| 💡 Principle | 📝 What It Means to Me |
+|---|---|
+| 🧹 Clean Code | Readable, maintainable, and well-structured always |
+| 🏗️ Strong Fundamentals | Deep understanding beats surface-level shortcuts |
+| 🔁 Continuous Learning | Improving every day is non-negotiable |
+| 🛠️ Real Projects | Building > copying tutorials |
+| 🤝 Collaboration | Community and teamwork accelerate growth |
 
 ---
 
-##  Featured Work
+## 📌 Featured Work
 
-- Responsive static & dynamic websites
-- CRUD-based web applications
-- Academic + personal development projects
-- WordPress-powered business websites
+- 🖥️ Responsive static & dynamic websites
+- ⚙️ CRUD-based web applications
+- 📚 Academic + personal development projects
+- 🌐 WordPress-powered business websites
 
-
-
----
-GitHub Performance
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sudin-Neupane&theme=dark&hide_border=false" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&theme=dark&hide_border=false&layout=compact" />
-</p>
-
-##  GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudin-Neupane&theme=darkhub&no-frame=true&column=7" />
-</p>
-
-<!-- ##  Contribution graph -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudin-Neupane&theme=react-dark&hide_border=true" />
-</p>
-<!-- ##  Visitors Map (Design Element) -->
-
-<p align="center">
-  <img src="https://github-profile-views-counter.vercel.app/api/?username=Sudin-Neupane" />
-</p>
-
-
-<!-- ##  Fun GitHub Metrics -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&show_icons=true&count_private=true&hide=issues&theme=tokyonight" />
-</p>
-<!-- ##  Coding Vibes -->
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qexample&cover_image=true&theme=default&show_offline=true&background_color=121212" />
-</p>
-
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
+> *More coming soon — I'm always building! 🚧*
 
 ---
-<!-- ##  Visual badges wall -->
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20Source-Lover-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean-Code-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Learning-Everyday-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Build-Ship-ff69b4?style=flat-square" />
-<img src="https://img.shields.io/badge/Consistency-Key-orange?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sudin-Neupane&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sudin-Neupane&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudin-Neupane&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="40%" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-<!-- ##  Developer space -->
+## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
-</p>
-
-##  Connect With Me
-
-<p align="center">
-<a href="https://facebook.com/Sudin Neupane">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/sudin_neupane">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/sudin neupane">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:sudinneupane519@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudin-Neupane&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 </p>
 
 ---
 
+## 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudin-Neupane&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
-###  Final Thought
+## 🐍 Contribution Snake
 
-I am continuously learning, building, and improving.
-If you are interested in **collaboration, mentorship, internships, or open-source contributions**, feel free to connect.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sudin-Neupane/Sudin-Neupane/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudin-neupane-84a30a260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sudin_neupane">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/sudin.neupane">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:sudinneupane519@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clean-Code-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Everyday-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Build-Ship-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Consistency-Key-orange?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <em>⚡ Open to <strong>collaborations</strong>, <strong>mentorship</strong>, <strong>internships</strong>, and <strong>open-source contributions</strong> — feel free to reach out!</em>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
