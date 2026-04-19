@@ -52,8 +52,8 @@ I'm **Sudin Neupane** — a passionate CSIT student and emerging web developer f
 |---|---|
 | JavaScript | Advanced functions, closures, async/await |
 | React | Components, hooks, state management |
-| Backend | Node.js fundamentals |
-| Database | MySQL — queries, joins, CRUD |
+| Backend | Learning |
+| Database | Learning |
 | C / C++ | Advancing in C, picking up C++ |
 | Open Source | Contributing to community projects |
 
