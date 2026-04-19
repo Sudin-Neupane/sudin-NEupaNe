@@ -131,7 +131,7 @@ I'm **Sudin Neupane** — a passionate CSIT student and emerging web developer f
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sudin-Neupane&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Sudin-Neupane&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
