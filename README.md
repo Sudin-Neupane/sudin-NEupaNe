@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+scalable+web+experiences;1st+Year+CSIT+Student+%F0%9F%8E%93;Emerging+Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;WordPress+%26+SEO+Specialist+%F0%9F%93%88;Learning+Every+Single+Day+%F0%9F%92%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+clean+%26+scalable+web+experiences;1st+Year+CSIT+Student;Emerging+Full-Stack+Developer;Open+Source+Contributor;WordPress+%26+SEO+Specialist;Learning+Every+Single+Day" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,97 +28,77 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```javascript
 const sudin = {
-  name:       "Sudin Neupane",
-  location:   "Nepal 🇳🇵",
-  education:  "1st Year CSIT Student",
-  role:       "College Representative @ Code For Change",
-  passion:    ["Web Development", "Clean Code", "Open Source"],
+  name:        "Sudin Neupane",
+  location:    "Nepal",
+  education:   "1st Year CSIT Student",
+  role:        "College Representative @ Code For Change",
+  passion:     ["Web Development", "Clean Code", "Open Source"],
   currentFocus: "Building full-stack skills from the ground up",
-  funFact:    "I believe real projects > endless tutorials 🛠️"
+  funFact:     "Real projects beat endless tutorials"
 };
 ```
 
-I'm **Sudin Neupane** — a passionate **CSIT student** and **emerging web developer** from Nepal. I love crafting **responsive, accessible, and user-friendly** digital experiences. With **1+ year of real-world WordPress experience**, I've worked across content, SEO, performance, and site management.
-
-I believe in **learning by building** — every line of code I write brings me closer to becoming a solid full-stack engineer.
+I'm **Sudin Neupane** — a passionate CSIT student and emerging web developer from Nepal. I love crafting **responsive, accessible, and user-friendly** digital experiences. With **1+ year of real-world WordPress experience**, I've worked across content, SEO, performance, and site management.
 
 ---
 
-## 🔥 Currently Working On
+## Currently Working On
 
-<table>
-  <tr>
-    <td>🚀</td>
-    <td>Deepening <strong>JavaScript</strong> — advanced functions, closures, async</td>
-  </tr>
-  <tr>
-    <td>⚛️</td>
-    <td>Learning <strong>React</strong> — components, hooks, state management</td>
-  </tr>
-  <tr>
-    <td>🔙</td>
-    <td>Exploring <strong>Backend Basics</strong> — Node.js fundamentals</td>
-  </tr>
-  <tr>
-    <td>🗄️</td>
-    <td>Practicing <strong>MySQL</strong> — queries, joins, CRUD operations</td>
-  </tr>
-  <tr>
-    <td>⚙️</td>
-    <td>Advancing in <strong>C Programming</strong> and picking up C++</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td>Contributing to <strong>open-source</strong> projects</td>
-  </tr>
-</table>
+| Area | Focus |
+|---|---|
+| JavaScript | Advanced functions, closures, async/await |
+| React | Components, hooks, state management |
+| Backend | Node.js fundamentals |
+| Database | MySQL — queries, joins, CRUD |
+| C / C++ | Advancing in C, picking up C++ |
+| Open Source | Contributing to community projects |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 🌐 Web Technologies
+### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 UI / UX & Design
+### UI / UX & Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-DA1F26.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 
-### 📝 CMS, SEO & Content
+### CMS, SEO & Content
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Yoast SEO](https://img.shields.io/badge/Yoast_SEO-A61E69?style=for-the-badge&logo=yoast&logoColor=white)
 ![Content Writing](https://img.shields.io/badge/Content_Writing-444444?style=for-the-badge)
 ![On-Page SEO](https://img.shields.io/badge/On_Page_SEO-0A66C2?style=for-the-badge)
 
-### 🗄️ Databases
+### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Dev Tools
+### Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ SE Concepts
+### Software Engineering Concepts
 ![CRUD Operations](https://img.shields.io/badge/CRUD_Operations-006400?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-333333?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-8A2BE2?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=for-the-badge)
 
-### 📚 Currently Learning
+### Currently Learning
 ![React](https://img.shields.io/badge/React_(Learning)-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js_(Exploring)-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Backend Basics](https://img.shields.io/badge/Backend_Basics-000000?style=for-the-badge)
@@ -126,30 +106,28 @@ I believe in **learning by building** — every line of code I write brings me c
 
 ---
 
-## 🏆 Core Principles
+## Core Principles
 
-| 💡 Principle | 📝 What It Means to Me |
+| Principle | What It Means to Me |
 |---|---|
-| 🧹 Clean Code | Readable, maintainable, and well-structured always |
-| 🏗️ Strong Fundamentals | Deep understanding beats surface-level shortcuts |
-| 🔁 Continuous Learning | Improving every day is non-negotiable |
-| 🛠️ Real Projects | Building > copying tutorials |
-| 🤝 Collaboration | Community and teamwork accelerate growth |
+| Clean Code | Readable, maintainable, and well-structured always |
+| Strong Fundamentals | Deep understanding beats surface-level shortcuts |
+| Continuous Learning | Improving every day is non-negotiable |
+| Real Projects | Building beats copying tutorials |
+| Collaboration | Community and teamwork accelerate growth |
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
-- 🖥️ Responsive static & dynamic websites
-- ⚙️ CRUD-based web applications
-- 📚 Academic + personal development projects
-- 🌐 WordPress-powered business websites
-
-> *More coming soon — I'm always building! 🚧*
+- Responsive static and dynamic websites
+- CRUD-based web applications
+- Academic and personal development projects
+- WordPress-powered business websites
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudin-Neupane&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" />
@@ -162,15 +140,7 @@ I believe in **learning by building** — every line of code I write brings me c
 
 ---
 
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudin-Neupane&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
-</p>
-
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudin-Neupane&theme=tokyo-night&hide_border=true&area=true" />
@@ -178,23 +148,7 @@ I believe in **learning by building** — every line of code I write brings me c
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sudin-Neupane/Sudin-Neupane/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Let's Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sudin-neupane-84a30a260/">
@@ -222,7 +176,7 @@ I believe in **learning by building** — every line of code I write brings me c
 ---
 
 <p align="center">
-  <em>⚡ Open to <strong>collaborations</strong>, <strong>mentorship</strong>, <strong>internships</strong>, and <strong>open-source contributions</strong> — feel free to reach out!</em>
+  Open to <strong>collaborations</strong>, <strong>mentorship</strong>, <strong>internships</strong>, and <strong>open-source contributions</strong> — feel free to reach out.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
